@@ -43,3 +43,4 @@ Dependencies
 opencv
 numpy
 matplotlib
+![th-3179749350](https://github.com/Kartik-Bhatnagar/Face-Mak-Detection/blob/main/results/Face-mask-web-cam.gif))
